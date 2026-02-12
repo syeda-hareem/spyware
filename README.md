@@ -1,7 +1,5 @@
 # Spyware
 
-Hey you all this is Ashutosh Behera. I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.
-
 DISCLAMIER
 
 This python program is for educational purpose only. Don't use it for any malicious purpose. The authoe of this program will not be responsible for any kind of malicious activity.
