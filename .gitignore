@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+logs/
+keystrokes/
+screenshots/
+search_history/
+clipboard/
